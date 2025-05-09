@@ -1,6 +1,7 @@
 # Bash-1-To-50
 A small Linux bash script that outputs 1 to 50.
 
+## How To Use This ##
 Steps:
 1. **Clone** repository to *valid* installation area on Linux filesystem.
 2. **Execute** bash script.
