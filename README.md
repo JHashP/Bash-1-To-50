@@ -4,5 +4,5 @@ A small Linux bash script that outputs 1 to 50.
 ## How To Use This ##
 Steps:
 1. **Clone** repository to *valid* installation area on Linux filesystem.
-2. **Execute** bash script.
+2. **Execute** bash script with ``bash``.
 3. **Witness** the terminal output numbers 1 through 50 accordingly.
